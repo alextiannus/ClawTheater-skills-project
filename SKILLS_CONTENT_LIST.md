@@ -4,7 +4,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 1. Stop Slop
+## 1. Stop Slop (去AI味清洗)
 **Description:** Remove AI writing patterns from prose.
 
 **Use When:** Drafting, editing, or reviewing text to eliminate predictable AI tells.
@@ -15,7 +15,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 2. Content Writer
+## 2. Content Writer (深度长文撰写)
 **Description:** Research topics and write content like blog posts, articles, and marketing copy.
 
 **Use When:** A user asks to write a blog post, create an article, draft marketing copy, write website content, create a newsletter, or produce thought leadership content.
@@ -26,7 +26,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 3. Copywriting
+## 3. Copywriting (营销爆款文案)
 **Description:** Write marketing copy for any page — homepage, landing pages, pricing pages, feature pages, about pages, or product pages.
 
 **Use When:** User wants to write, rewrite, or improve marketing copy; says "write copy for," "improve this copy," "rewrite this page," "marketing copy," "headline help," or "CTA copy."
@@ -37,7 +37,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 4. Copy Editing
+## 4. Copy Editing (长文案润色)
 **Description:** Systematically improve existing marketing copy through focused editing passes.
 
 **Use When:** User wants to edit, review, or improve existing marketing copy; mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' or 'make this better.'
@@ -48,7 +48,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 5. Markdown Writer
+## 5. Markdown Writer (Markdown排版优化)
 **Description:** Generate well-structured technical documentation in Markdown.
 
 **Use When:** User asks to write docs, create a README, document an API, write a how-to guide, generate technical documentation, create a changelog, or write a project wiki.
@@ -59,7 +59,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 6. Social Content
+## 6. Social Content (社媒网感文案)
 **Description:** Create, schedule, and optimize social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, and other platforms.
 
 **Use When:** User wants help creating social media content, scheduling posts, optimizing for engagement; mentions 'LinkedIn post,' 'Twitter thread,' 'social media,' 'content calendar,' 'social scheduling,' 'engagement,' or 'viral content.'
@@ -70,7 +70,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 7. Novel Master
+## 7. Novel Master (全能小说创作大师)
 **Description:** World-class long-form novel creation interactive skill for fiction writing across genres.
 
 **Use When:** Creating or continuing novels, generating character development, outlining chapters, writing prose, creating marketing copy for books, analyzing character arcs, researching trends, or editing narrative content.
@@ -81,7 +81,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 8. Chinese Novelist
+## 8. Chinese Novelist (中文小说家)
 **Description:** Chinese novel creation assistant that uses a 5-step guided process for story outline and chapter-by-chapter generation.
 
 **Use When:** User wants to write a Chinese novel, needs a structured 5-question setup for genre, protagonist, conflict, and chapters.
@@ -103,7 +103,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 10. Novel Writer Skills
+## 10. Novel Writer Skills (Claude小说工作流)
 **Description:** Dedicated novel writing assistant for Claude Code, deeply integrating Slash Commands and Agent Skills using a 7-step methodology.
 
 **Use When:** Working within Claude Code and needing automated slash commands (`/constitution`, `/plan`, `/write`) for novel writing workflows.
@@ -114,7 +114,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 11. Short Drama Script
+## 11. Short Drama Script (微短剧剧本创作)
 **Description:** Professional micro-short drama scriptwriting skill covering the entire production process from topic selection to episode writing, quality self-inspection, and compliance.
 
 **Use When:** User wants to write a 50-100 episode short drama (微短剧), design paywall hooks, define 3-act structures, or develop character arcs.
@@ -125,7 +125,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 12. Drama Adapt
+## 12. Drama Adapt (网文改编漫剧)
 **Description:** A 5-stage automated workflow skill that adapts web novels into standard comic drama (漫剧) script formats.
 
 **Use When:** Converting an existing web novel into a comic drama script. Features automated character extraction, outline generation, and episode drafting.
@@ -136,7 +136,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 13. Micro-Drama Skills
+## 13. Micro-Drama Skills (AI微短剧制作)
 **Description:** Full-pipeline automated short drama production system utilizing Seedance. Creates scripts, character designs, storyboards, and generates media tasks.
 
 **Use When:** Creating a complete 25-episode AI short drama from script to storyboard generation using Gemini API and Seedance video generation.
@@ -147,7 +147,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 14. Bestseller Structure
+## 14. Bestseller Structure (畅销故事架构)
 **Description:** Bestseller story structure and engineering. Covers 4-act structure, Save the Cat beats, emotional arcs, and chapter pacing.
 
 **Use When:** Designing the overall structure of a book, planning plot progression, or outlining a series.
@@ -158,7 +158,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 15. Novel Writing Advanced
+## 15. Novel Writing Advanced (小说写作进阶技法)
 **Description:** Advanced novel writing techniques. Provides specific methods, examples, and checklists for the four layers of novel writing.
 
 **Use When:** Needing to improve narrative quality, fix contrived plots, improve pacing, or deepen character development.
@@ -169,7 +169,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 16. Novel Writing Framework
+## 16. Novel Writing Framework (小说创作四层框架)
 **Description:** Professional-level novel creation skill using a 4-layer framework. Core principles: no spoilers, suspense-driven, and clean prose.
 
 **Use When:** Writing long-form novels, building world settings, designing characters, or driving narratives.
@@ -180,7 +180,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 17. Reader Psychology
+## 17. Reader Psychology (读者上瘾心理学)
 **Description:** Reader addiction mechanisms based on psychology. Strategies for manufacturing "can't put it down" reading experiences.
 
 **Use When:** A story is well-written but fails to hook readers, suffers from low retention, or lacks page-turning impulse.
@@ -191,7 +191,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 18. Scene Craft
+## 18. Scene Craft (小说场景工艺)
 **Description:** Crafting scenes from the inside out. Covers goal-conflict-disaster structures, subtext in dialogue, tension escalation, and hooks.
 
 **Use When:** Scenes lack tension, dialogue is too explicit, pacing is flat, or chapter endings lack pull.
@@ -202,7 +202,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 19. Shuangwen Engineering
+## 19. Shuangwen Engineering (爽文工程学)
 **Description:** Specialized engineering manual for Web Fiction (Shuangwen/爽文) focusing on satisfaction and dopamine hits.
 
 **Use When:** Writing web fiction where the primary goal is rapid reader satisfaction and relentless engagement.
@@ -213,7 +213,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 20. Strict Narration
+## 20. Strict Narration (严格深层视角叙事)
 **Description:** Strict narrative guidelines enforcing Deep POV. Solves AI's fatal flaw of "authorial intrusion" and summarizing rather than experiencing.
 
 **Use When:** Written text sounds like an author explaining/summarizing instead of a character experiencing the story.
@@ -224,7 +224,7 @@ A curated collection of writing and content creation skills for producing high-q
 
 ---
 
-## 21. Zhouzi Style
+## 21. Zhouzi Style (肘子风格模仿)
 **Description:** Imitates the writing style of popular web author "Hui Shuohua de Zhouzi" (Author of *Da Wang Rao Ming*).
 
 **Use When:** Writing urban supernatural, lighthearted comedy, "System" genre web fiction, or creating a protagonist who excels at annoying people.

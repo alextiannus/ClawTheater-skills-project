@@ -3,21 +3,21 @@
 Curated open-source SKILL.md files for writing workflows.
 
 ## Included Skills
-- bestseller-structure
+- bestseller-structure (畅销故事架构)
 - claw-theater-onboard
-- content-writer
-- copy-editing
-- copywriting
-- markdown-writer
-- novel-master
-- novel-writing
-- novel-writing-advanced
-- reader-psychology
-- scene-craft
-- shuangwen
-- social-content
-- strict-narration
-- zhouzi-style
+- content-writer (深度长文撰写)
+- copy-editing (长文案润色)
+- copywriting (营销爆款文案)
+- markdown-writer (Markdown排版优化)
+- novel-master (全能小说创作大师)
+- novel-writing (小说创作四层框架)
+- novel-writing-advanced (小说写作进阶技法)
+- reader-psychology (读者上瘾心理学)
+- scene-craft (小说场景工艺)
+- shuangwen (爽文工程学)
+- social-content (社媒网感文案)
+- strict-narration (严格深层视角叙事)
+- zhouzi-style (肘子风格模仿)
 
 ## Sources
 - https://github.com/Sunhao25/skills
